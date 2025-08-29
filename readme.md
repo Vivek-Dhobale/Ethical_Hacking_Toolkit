@@ -1,4 +1,4 @@
-# 🛠️ Hacking Toolkit Menu - Educational Only
+# 🛠️ Ethical Hacking Toolkit Menu - Educational Only
 
 [![Author](https://img.shields.io/badge/Author-VivekXploit-blue?style=for-the-badge)](https://github.com/VivekXploit)
 [![Version](https://img.shields.io/badge/Version-V1.0-green?style=for-the-badge)](https://github.com/VivekXploit)
@@ -8,7 +8,7 @@
 
 ## 🎨 Project Overview
 
-**Hacking Toolkit Menu** is a **bash-based interactive hacking toolkit menu** for **educational purposes only**. It allows users to **install, run, and manage multiple ethical hacking tools** from a single, visually appealing interface. Designed by **VivekXploit**, this project is intended **only for learning and ethical penetration testing**.
+**Ethical Hacking Toolkit Menu** is a **bash-based interactive hacking toolkit menu** for **educational purposes only**. It allows users to **install, run, and manage multiple ethical hacking tools** from a single, visually appealing interface. Designed by **VivekXploit**, this project is intended **only for learning and ethical penetration testing**.
 
 > ⚠️ **Disclaimer:** This toolkit is for **educational purposes only**. Unauthorized usage is illegal. Always test on systems you own or have permission to assess.
 
