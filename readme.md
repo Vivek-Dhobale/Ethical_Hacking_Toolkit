@@ -1,8 +1,8 @@
 # 🛠️ Ethical Hacking Toolkit Menu - Educational Only
 
-[![Author](https://img.shields.io/badge/Author-VivekXploit-blue?style=for-the-badge)](https://github.com/VivekXploit)
-[![Version](https://img.shields.io/badge/Version-V1.0-green?style=for-the-badge)](https://github.com/VivekXploit)
-[![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)](https://github.com/VivekXploit)
+[![Author](https://img.shields.io/badge/Author-VivekXploit-blue?style=for-the-badge)](https://github.com/VivekDhobale-VivekXploit)
+[![Version](https://img.shields.io/badge/Version-V1.0-green?style=for-the-badge)](https://github.com/VivekDhobale-VivekXploit)
+[![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)](https://github.com/VivekDhobale-VivekXploit)
 
 ---
 
@@ -121,8 +121,8 @@ Do not use these tools on unauthorized systems.
 
 ## 💬 Contact
 
-- GitHub: [VivekXploit](https://github.com/VivekXploit)  
-- Email: vivek@example.com *(optional for contact)*
+- GitHub: [VivekXploit](https://github.com/VivekDhobale-VivekXploit)  
+- Email: dhobalevivek23@gmail.com
 
 ---
 
