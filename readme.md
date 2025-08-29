@@ -84,19 +84,13 @@ chmod +x toolkit.sh
 | 00 | Exit | Quit the toolkit safely |
 
 ---
-## 🧹 Uninstall Section
+## 🧹 Uninstall Tools
 
-To uninstall all downloaded tools and clean up the Tools directory:
-```bash
-# Remove all tools and the Tools folder
-rm -rf Tools
-echo "✅ All downloaded tools have been removed successfully."
+The toolkit includes a built-in **Uninstall Tools option** in the main menu:
 
-# Optional: Remove toolkit script
-# cd ..  # if inside the project folder
-# rm -f toolkit.sh
-# echo "✅ Toolkit script removed."
-```
+- From the menu, select **[07] Uninstall Tools**.
+- This will automatically **delete the `Tools` folder** and remove all downloaded tools.
+- A confirmation message will appear:
 
 ⚠️ Warning: This action cannot be undone. Make sure you do not need any tools before running this command.
 ---
