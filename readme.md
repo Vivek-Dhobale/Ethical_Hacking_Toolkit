@@ -92,7 +92,7 @@ The toolkit includes a built-in **Uninstall Tools option** in the main menu:
 - This will automatically **delete the `Tools` folder** and remove all downloaded tools.
 - A confirmation message will appear:
 
-⚠️ Warning: This action cannot be undone. Make sure you do not need any tools before running this command.
+> ⚠️ **Warning:** This action cannot be undone. Make sure you do not need any tools before running this command.
 ---
 
 ## 💻 Technologies Used
