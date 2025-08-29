@@ -35,31 +35,12 @@
 
 ---
 
-## 🖼️ Banner Styles
-
-The toolkit has **3 dynamic banners**, randomly displayed on launch:
-
-```
- __      ___           _    __   __      _       _ _    
- \ \    / (_)         | |   \ \ / /     | |     (_) |   
-  \ \  / / ___   _____| | __ \ V / _ __ | | ___  _| |_  
-   \ \/ / | \ \ / / _ \ |/ /  > < | '_ \| |/ _ \| | __|
-    \  /  | |\ V /  __/   <  / . \| |_) | | (_) | | |_  
-     \/   |_| \_/ \___|_|\_\/__/ \_\ .__/|_|\___/|_|\__|
-                                  | |                   
-                                  |_|                   
-```
-
-*(Other banners display tech-style ASCII art for aesthetic effect.)*
-
----
-
 ## 🖥️ Installation & Setup
 
 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/VivekXploit/Hacking-Toolkit-Menu.git
-cd Hacking-Toolkit-Menu
+git clone https://github.com/VivekDhobale-VivekXploit/Ethical_Hacking_Toolkit.git
+cd Ethical_Hacking_Toolkit
 ```
 
 **Step 2: Make the script executable**
@@ -104,19 +85,10 @@ chmod +x toolkit.sh
 
 ---
 
-## 🎨 Features in Action
-
-![Toolkit Screenshot](https://github.com/VivekXploit/Hacking-Toolkit-Menu/assets/YourImageHere)
-
-*(Replace with your actual screenshot of menu)*
-
----
 
 ## 💻 Technologies Used
 
 - **Bash Scripting** - Main interactive script.
-- **Python & Python2** - For integrated tools.
-- **PHP** - Used by some web tools.
 - **Linux (Kali, Termux)** - Recommended platform.
 
 ---
@@ -124,21 +96,12 @@ chmod +x toolkit.sh
 ## 📂 Folder Structure
 
 ```
-Hacking-Toolkit-Menu/
+Ethical_Hacking_Toolkit/
 │
 ├─ toolkit.sh            # Main script
 ├─ README.md             # Project documentation
 └─ Tools/                # Folder for downloaded tools
 ```
-
----
-
-## 🧭 How to Contribute
-
-1. Fork this repository.  
-2. Add new educational tools in the `Tools` folder.  
-3. Update the menu in `toolkit.sh`.  
-4. Submit a Pull Request with description and screenshots.  
 
 ---
 
@@ -165,5 +128,5 @@ Do not use these tools on unauthorized systems.
 
 ## 🚀 Stay Ethical
 
-> "Stay ethical, stay strong — VivekXploit"
+> **Stay ethical, stay strong — VivekXploit**
 
