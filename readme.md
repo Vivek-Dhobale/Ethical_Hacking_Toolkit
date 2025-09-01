@@ -130,7 +130,7 @@ Do not use these tools on unauthorized systems.
 
 ## 💬 Contact
 
-- GitHub: [VivekXploit](https://github.com/VivekDhobale-VivekXploit)  
+- GitHub: [VivekXploit](https://github.com/Vivek-Dhobale)  
 - Email: dhobalevivek23@gmail.com
 
 ---
