@@ -139,3 +139,5 @@ Do not use these tools on unauthorized systems.
 
 > **Stay ethical, stay strong — VivekXploit**
 
+**⭐ If this project was helpful, please consider to leaving a **star** to support it!**
+
